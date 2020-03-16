@@ -1,0 +1,11 @@
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\predavanja_16_3\IzpisTabel\obj\Debug\netcoreapp3.1\IzpisTabel.csprojAssemblyReference.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\predavanja_16_3\IzpisTabel\obj\Debug\netcoreapp3.1\IzpisTabel.AssemblyInfoInputs.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\predavanja_16_3\IzpisTabel\obj\Debug\netcoreapp3.1\IzpisTabel.AssemblyInfo.cs
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\predavanja_16_3\IzpisTabel\bin\Debug\netcoreapp3.1\IzpisTabel.exe
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\predavanja_16_3\IzpisTabel\bin\Debug\netcoreapp3.1\IzpisTabel.deps.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\predavanja_16_3\IzpisTabel\bin\Debug\netcoreapp3.1\IzpisTabel.runtimeconfig.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\predavanja_16_3\IzpisTabel\bin\Debug\netcoreapp3.1\IzpisTabel.runtimeconfig.dev.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\predavanja_16_3\IzpisTabel\bin\Debug\netcoreapp3.1\IzpisTabel.dll
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\predavanja_16_3\IzpisTabel\bin\Debug\netcoreapp3.1\IzpisTabel.pdb
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\predavanja_16_3\IzpisTabel\obj\Debug\netcoreapp3.1\IzpisTabel.dll
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\predavanja_16_3\IzpisTabel\obj\Debug\netcoreapp3.1\IzpisTabel.pdb
