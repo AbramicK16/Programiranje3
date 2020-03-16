@@ -1,0 +1,11 @@
+C:\Users\ŠULI\Documents\Programiranje3\vaje_16_3\Dopolni_program1\bin\Debug\netcoreapp3.1\Dopolni_program1.exe
+C:\Users\ŠULI\Documents\Programiranje3\vaje_16_3\Dopolni_program1\bin\Debug\netcoreapp3.1\Dopolni_program1.deps.json
+C:\Users\ŠULI\Documents\Programiranje3\vaje_16_3\Dopolni_program1\bin\Debug\netcoreapp3.1\Dopolni_program1.runtimeconfig.json
+C:\Users\ŠULI\Documents\Programiranje3\vaje_16_3\Dopolni_program1\bin\Debug\netcoreapp3.1\Dopolni_program1.runtimeconfig.dev.json
+C:\Users\ŠULI\Documents\Programiranje3\vaje_16_3\Dopolni_program1\bin\Debug\netcoreapp3.1\Dopolni_program1.dll
+C:\Users\ŠULI\Documents\Programiranje3\vaje_16_3\Dopolni_program1\bin\Debug\netcoreapp3.1\Dopolni_program1.pdb
+C:\Users\ŠULI\Documents\Programiranje3\vaje_16_3\Dopolni_program1\obj\Debug\netcoreapp3.1\Dopolni_program1.csprojAssemblyReference.cache
+C:\Users\ŠULI\Documents\Programiranje3\vaje_16_3\Dopolni_program1\obj\Debug\netcoreapp3.1\Dopolni_program1.AssemblyInfoInputs.cache
+C:\Users\ŠULI\Documents\Programiranje3\vaje_16_3\Dopolni_program1\obj\Debug\netcoreapp3.1\Dopolni_program1.AssemblyInfo.cs
+C:\Users\ŠULI\Documents\Programiranje3\vaje_16_3\Dopolni_program1\obj\Debug\netcoreapp3.1\Dopolni_program1.dll
+C:\Users\ŠULI\Documents\Programiranje3\vaje_16_3\Dopolni_program1\obj\Debug\netcoreapp3.1\Dopolni_program1.pdb

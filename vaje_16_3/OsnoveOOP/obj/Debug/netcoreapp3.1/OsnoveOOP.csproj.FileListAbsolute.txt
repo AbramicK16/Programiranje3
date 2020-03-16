@@ -1,0 +1,3 @@
+C:\Users\ŠULI\Documents\Programiranje3\vaje_16_3\OsnoveOOP\obj\Debug\netcoreapp3.1\OsnoveOOP.csprojAssemblyReference.cache
+C:\Users\ŠULI\Documents\Programiranje3\vaje_16_3\OsnoveOOP\obj\Debug\netcoreapp3.1\OsnoveOOP.AssemblyInfoInputs.cache
+C:\Users\ŠULI\Documents\Programiranje3\vaje_16_3\OsnoveOOP\obj\Debug\netcoreapp3.1\OsnoveOOP.AssemblyInfo.cs
