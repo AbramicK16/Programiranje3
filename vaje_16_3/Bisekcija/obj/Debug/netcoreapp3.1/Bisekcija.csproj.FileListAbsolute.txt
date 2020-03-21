@@ -1,0 +1,11 @@
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_16_3\Bisekcija\bin\Debug\netcoreapp3.1\Bisekcija.exe
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_16_3\Bisekcija\bin\Debug\netcoreapp3.1\Bisekcija.deps.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_16_3\Bisekcija\bin\Debug\netcoreapp3.1\Bisekcija.runtimeconfig.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_16_3\Bisekcija\bin\Debug\netcoreapp3.1\Bisekcija.runtimeconfig.dev.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_16_3\Bisekcija\bin\Debug\netcoreapp3.1\Bisekcija.dll
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_16_3\Bisekcija\bin\Debug\netcoreapp3.1\Bisekcija.pdb
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_16_3\Bisekcija\obj\Debug\netcoreapp3.1\Bisekcija.AssemblyInfoInputs.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_16_3\Bisekcija\obj\Debug\netcoreapp3.1\Bisekcija.AssemblyInfo.cs
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_16_3\Bisekcija\obj\Debug\netcoreapp3.1\Bisekcija.dll
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_16_3\Bisekcija\obj\Debug\netcoreapp3.1\Bisekcija.pdb
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_16_3\Bisekcija\obj\Debug\netcoreapp3.1\Bisekcija.csprojAssemblyReference.cache

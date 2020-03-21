@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Prozenje_napak_1/1.0.0": {
+        "dependencies": {
+          "Lovljenje_napak_2": "1.0.0"
+        },
+        "runtime": {
+          "Prozenje_napak_1.dll": {}
+        }
+      },
+      "Lovljenje_napak_2/1.0.0": {
+        "runtime": {
+          "Lovljenje_napak_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prozenje_napak_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lovljenje_napak_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

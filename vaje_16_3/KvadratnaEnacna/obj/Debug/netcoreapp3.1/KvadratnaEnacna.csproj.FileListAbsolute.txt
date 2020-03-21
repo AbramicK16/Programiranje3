@@ -1,0 +1,11 @@
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_16_3\KvadratnaEnacna\bin\Debug\netcoreapp3.1\KvadratnaEnacna.exe
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_16_3\KvadratnaEnacna\bin\Debug\netcoreapp3.1\KvadratnaEnacna.deps.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_16_3\KvadratnaEnacna\bin\Debug\netcoreapp3.1\KvadratnaEnacna.runtimeconfig.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_16_3\KvadratnaEnacna\bin\Debug\netcoreapp3.1\KvadratnaEnacna.runtimeconfig.dev.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_16_3\KvadratnaEnacna\bin\Debug\netcoreapp3.1\KvadratnaEnacna.dll
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_16_3\KvadratnaEnacna\bin\Debug\netcoreapp3.1\KvadratnaEnacna.pdb
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_16_3\KvadratnaEnacna\obj\Debug\netcoreapp3.1\KvadratnaEnacna.csprojAssemblyReference.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_16_3\KvadratnaEnacna\obj\Debug\netcoreapp3.1\KvadratnaEnacna.AssemblyInfoInputs.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_16_3\KvadratnaEnacna\obj\Debug\netcoreapp3.1\KvadratnaEnacna.AssemblyInfo.cs
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_16_3\KvadratnaEnacna\obj\Debug\netcoreapp3.1\KvadratnaEnacna.dll
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_16_3\KvadratnaEnacna\obj\Debug\netcoreapp3.1\KvadratnaEnacna.pdb
