@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UporabaTabel/1.0.0": {
+        "dependencies": {
+          "IzpisTabel": "1.0.0"
+        },
+        "runtime": {
+          "UporabaTabel.dll": {}
+        }
+      },
+      "IzpisTabel/1.0.0": {
+        "runtime": {
+          "IzpisTabel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UporabaTabel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IzpisTabel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
