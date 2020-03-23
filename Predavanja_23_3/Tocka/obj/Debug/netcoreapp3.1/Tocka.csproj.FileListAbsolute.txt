@@ -1,0 +1,11 @@
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Predavanja_23_3\Tocka\bin\Debug\netcoreapp3.1\Tocka.exe
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Predavanja_23_3\Tocka\bin\Debug\netcoreapp3.1\Tocka.deps.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Predavanja_23_3\Tocka\bin\Debug\netcoreapp3.1\Tocka.runtimeconfig.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Predavanja_23_3\Tocka\bin\Debug\netcoreapp3.1\Tocka.runtimeconfig.dev.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Predavanja_23_3\Tocka\bin\Debug\netcoreapp3.1\Tocka.dll
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Predavanja_23_3\Tocka\bin\Debug\netcoreapp3.1\Tocka.pdb
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Predavanja_23_3\Tocka\obj\Debug\netcoreapp3.1\Tocka.csprojAssemblyReference.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Predavanja_23_3\Tocka\obj\Debug\netcoreapp3.1\Tocka.AssemblyInfoInputs.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Predavanja_23_3\Tocka\obj\Debug\netcoreapp3.1\Tocka.AssemblyInfo.cs
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Predavanja_23_3\Tocka\obj\Debug\netcoreapp3.1\Tocka.dll
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Predavanja_23_3\Tocka\obj\Debug\netcoreapp3.1\Tocka.pdb

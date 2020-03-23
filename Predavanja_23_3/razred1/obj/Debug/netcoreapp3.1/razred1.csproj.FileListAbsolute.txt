@@ -1,0 +1,11 @@
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Predavanja_23_3\razred1\bin\Debug\netcoreapp3.1\razred1.exe
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Predavanja_23_3\razred1\bin\Debug\netcoreapp3.1\razred1.deps.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Predavanja_23_3\razred1\bin\Debug\netcoreapp3.1\razred1.runtimeconfig.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Predavanja_23_3\razred1\bin\Debug\netcoreapp3.1\razred1.runtimeconfig.dev.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Predavanja_23_3\razred1\bin\Debug\netcoreapp3.1\razred1.dll
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Predavanja_23_3\razred1\bin\Debug\netcoreapp3.1\razred1.pdb
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Predavanja_23_3\razred1\obj\Debug\netcoreapp3.1\razred1.csprojAssemblyReference.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Predavanja_23_3\razred1\obj\Debug\netcoreapp3.1\razred1.AssemblyInfoInputs.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Predavanja_23_3\razred1\obj\Debug\netcoreapp3.1\razred1.AssemblyInfo.cs
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Predavanja_23_3\razred1\obj\Debug\netcoreapp3.1\razred1.dll
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Predavanja_23_3\razred1\obj\Debug\netcoreapp3.1\razred1.pdb
