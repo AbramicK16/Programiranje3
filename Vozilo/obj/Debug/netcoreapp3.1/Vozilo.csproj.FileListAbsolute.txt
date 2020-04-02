@@ -1,0 +1,11 @@
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_23_3\Vozilo\bin\Debug\netcoreapp3.1\Vozilo.exe
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_23_3\Vozilo\bin\Debug\netcoreapp3.1\Vozilo.deps.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_23_3\Vozilo\bin\Debug\netcoreapp3.1\Vozilo.runtimeconfig.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_23_3\Vozilo\bin\Debug\netcoreapp3.1\Vozilo.runtimeconfig.dev.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_23_3\Vozilo\bin\Debug\netcoreapp3.1\Vozilo.dll
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_23_3\Vozilo\bin\Debug\netcoreapp3.1\Vozilo.pdb
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_23_3\Vozilo\obj\Debug\netcoreapp3.1\Vozilo.csprojAssemblyReference.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_23_3\Vozilo\obj\Debug\netcoreapp3.1\Vozilo.AssemblyInfoInputs.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_23_3\Vozilo\obj\Debug\netcoreapp3.1\Vozilo.AssemblyInfo.cs
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_23_3\Vozilo\obj\Debug\netcoreapp3.1\Vozilo.dll
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_23_3\Vozilo\obj\Debug\netcoreapp3.1\Vozilo.pdb
