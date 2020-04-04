@@ -1,0 +1,13 @@
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kosarica\bin\Debug\netcoreapp3.1\Razred_kosarica.exe
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kosarica\bin\Debug\netcoreapp3.1\Razred_kosarica.deps.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kosarica\bin\Debug\netcoreapp3.1\Razred_kosarica.runtimeconfig.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kosarica\bin\Debug\netcoreapp3.1\Razred_kosarica.runtimeconfig.dev.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kosarica\bin\Debug\netcoreapp3.1\Razred_kosarica.dll
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kosarica\bin\Debug\netcoreapp3.1\Razred_kosarica.pdb
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kosarica\obj\Debug\netcoreapp3.1\Razred_kosarica.csprojAssemblyReference.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kosarica\obj\Debug\netcoreapp3.1\Razred_kosarica.csproj.CoreCompileInputs.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kosarica\obj\Debug\netcoreapp3.1\Razred_kosarica.AssemblyInfoInputs.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kosarica\obj\Debug\netcoreapp3.1\Razred_kosarica.AssemblyInfo.cs
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kosarica\obj\Debug\netcoreapp3.1\Razred_kosarica.dll
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kosarica\obj\Debug\netcoreapp3.1\Razred_kosarica.pdb
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kosarica\obj\Debug\netcoreapp3.1\Razred_kosarica.genruntimeconfig.cache

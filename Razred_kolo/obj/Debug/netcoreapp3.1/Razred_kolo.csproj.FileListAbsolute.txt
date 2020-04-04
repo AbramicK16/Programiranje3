@@ -1,0 +1,13 @@
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kolo\bin\Debug\netcoreapp3.1\Razred_kolo.exe
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kolo\bin\Debug\netcoreapp3.1\Razred_kolo.deps.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kolo\bin\Debug\netcoreapp3.1\Razred_kolo.runtimeconfig.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kolo\bin\Debug\netcoreapp3.1\Razred_kolo.runtimeconfig.dev.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kolo\bin\Debug\netcoreapp3.1\Razred_kolo.dll
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kolo\bin\Debug\netcoreapp3.1\Razred_kolo.pdb
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kolo\obj\Debug\netcoreapp3.1\Razred_kolo.csprojAssemblyReference.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kolo\obj\Debug\netcoreapp3.1\Razred_kolo.csproj.CoreCompileInputs.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kolo\obj\Debug\netcoreapp3.1\Razred_kolo.AssemblyInfoInputs.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kolo\obj\Debug\netcoreapp3.1\Razred_kolo.AssemblyInfo.cs
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kolo\obj\Debug\netcoreapp3.1\Razred_kolo.dll
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kolo\obj\Debug\netcoreapp3.1\Razred_kolo.pdb
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_30_3\Razred_kolo\obj\Debug\netcoreapp3.1\Razred_kolo.genruntimeconfig.cache
