@@ -1,0 +1,10 @@
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Semafor\bin\Debug\Semafor.exe.config
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Semafor\bin\Debug\Semafor.exe
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Semafor\bin\Debug\Semafor.pdb
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Semafor\obj\Debug\Semafor.csprojAssemblyReference.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Semafor\obj\Debug\Semafor.Okno.resources
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Semafor\obj\Debug\Semafor.Properties.Resources.resources
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Semafor\obj\Debug\Semafor.csproj.GenerateResource.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Semafor\obj\Debug\Semafor.csproj.CoreCompileInputs.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Semafor\obj\Debug\Semafor.exe
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Semafor\obj\Debug\Semafor.pdb

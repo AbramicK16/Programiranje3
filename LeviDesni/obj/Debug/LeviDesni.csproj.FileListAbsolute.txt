@@ -1,0 +1,9 @@
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\LeviDesni\bin\Debug\LeviDesni.exe.config
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\LeviDesni\bin\Debug\LeviDesni.exe
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\LeviDesni\bin\Debug\LeviDesni.pdb
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\LeviDesni\obj\Debug\LeviDesni.Okno.resources
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\LeviDesni\obj\Debug\LeviDesni.Properties.Resources.resources
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\LeviDesni\obj\Debug\LeviDesni.csproj.GenerateResource.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\LeviDesni\obj\Debug\LeviDesni.csproj.CoreCompileInputs.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\LeviDesni\obj\Debug\LeviDesni.exe
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\LeviDesni\obj\Debug\LeviDesni.pdb

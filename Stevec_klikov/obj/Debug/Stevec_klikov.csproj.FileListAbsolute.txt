@@ -1,0 +1,10 @@
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Stevec_klikov\bin\Debug\Stevec_klikov.exe.config
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Stevec_klikov\bin\Debug\Stevec_klikov.exe
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Stevec_klikov\bin\Debug\Stevec_klikov.pdb
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Stevec_klikov\obj\Debug\Stevec_klikov.csprojAssemblyReference.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Stevec_klikov\obj\Debug\Stevec_klikov.Okno.resources
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Stevec_klikov\obj\Debug\Stevec_klikov.Properties.Resources.resources
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Stevec_klikov\obj\Debug\Stevec_klikov.csproj.GenerateResource.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Stevec_klikov\obj\Debug\Stevec_klikov.csproj.CoreCompileInputs.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Stevec_klikov\obj\Debug\Stevec_klikov.exe
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Stevec_klikov\obj\Debug\Stevec_klikov.pdb

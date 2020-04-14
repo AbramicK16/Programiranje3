@@ -1,0 +1,13 @@
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Razred_Kompleksno_Stevilo\obj\Debug\netcoreapp3.1\Razred_Kompleksno_Stevilo.csprojAssemblyReference.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Razred_Kompleksno_Stevilo\obj\Debug\netcoreapp3.1\Razred_Kompleksno_Stevilo.csproj.CoreCompileInputs.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Razred_Kompleksno_Stevilo\obj\Debug\netcoreapp3.1\Razred_Kompleksno_Stevilo.AssemblyInfoInputs.cache
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Razred_Kompleksno_Stevilo\obj\Debug\netcoreapp3.1\Razred_Kompleksno_Stevilo.AssemblyInfo.cs
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Razred_Kompleksno_Stevilo\bin\Debug\netcoreapp3.1\Razred_Kompleksno_Stevilo.exe
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Razred_Kompleksno_Stevilo\bin\Debug\netcoreapp3.1\Razred_Kompleksno_Stevilo.deps.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Razred_Kompleksno_Stevilo\bin\Debug\netcoreapp3.1\Razred_Kompleksno_Stevilo.runtimeconfig.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Razred_Kompleksno_Stevilo\bin\Debug\netcoreapp3.1\Razred_Kompleksno_Stevilo.runtimeconfig.dev.json
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Razred_Kompleksno_Stevilo\bin\Debug\netcoreapp3.1\Razred_Kompleksno_Stevilo.dll
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Razred_Kompleksno_Stevilo\bin\Debug\netcoreapp3.1\Razred_Kompleksno_Stevilo.pdb
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Razred_Kompleksno_Stevilo\obj\Debug\netcoreapp3.1\Razred_Kompleksno_Stevilo.dll
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Razred_Kompleksno_Stevilo\obj\Debug\netcoreapp3.1\Razred_Kompleksno_Stevilo.pdb
+C:\Users\katar\OneDrive\Dokumenti\Programiranje3\Vaje_6_4\Razred_Kompleksno_Stevilo\obj\Debug\netcoreapp3.1\Razred_Kompleksno_Stevilo.genruntimeconfig.cache
